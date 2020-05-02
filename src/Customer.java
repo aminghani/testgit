@@ -6,7 +6,7 @@ public class Customer implements Comparable {
         this.name = name;
         this.money = money;
     }
-
+    //some useless comments
     public String getName() {
         return name;
     }
